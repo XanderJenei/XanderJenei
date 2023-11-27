@@ -8,4 +8,4 @@ My X is [x.com/XandorJenei](https://x.com/XandorJenei).
  
 My Instagram is @xanderjenei.
 
-I have many Youtube channels.
+I have many Youtube channels. I post development logs on https://www.youtube.com/channel/UC7En7jDFBXr-Ptw_Snbvqmg.
